@@ -9,7 +9,7 @@
   "calendar",
   "templater-obsidian",
   "obsidian-list-callouts",
-  "oz-clear-unused-images",
   "copy-url-in-preview",
-  "obsidian-local-images-plus"
+  "obsidian-image-auto-upload-plugin",
+  "code-styler"
 ]
