@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "98dfc566facb33a2",
+    "id": "96a41d6432f70722",
     "type": "split",
     "children": [
       {
-        "id": "66f6659834968aea",
+        "id": "d72ef540a040ff33",
         "type": "tabs",
         "children": [
           {
-            "id": "146afeb522b656ac",
+            "id": "a348938158e3fa56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数学真题/24真题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "24真题"
             }
           }
         ]
@@ -23,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "58a4d7da59aff182",
+    "id": "2593b17c1fe405ca",
     "type": "split",
     "children": [
       {
-        "id": "b706117f82201644",
+        "id": "ca4f930dcc7eb208",
         "type": "tabs",
         "children": [
           {
-            "id": "f35117bd281b6d22",
+            "id": "e333f6d0209a5ea6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,13 +49,13 @@
             }
           },
           {
-            "id": "76d31e8cdc25e02c",
+            "id": "ae7f128385d4a6e8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +66,7 @@
             }
           },
           {
-            "id": "f578265575802064",
+            "id": "087beedc3cc589e0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,93 +79,125 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237
   },
   "right": {
-    "id": "446ea517d521127a",
+    "id": "6acaf30e623b74f6",
     "type": "split",
     "children": [
       {
-        "id": "fd4bc487383b008a",
+        "id": "5c621d2e9d874362",
         "type": "tabs",
+        "dimension": 52.39808153477218,
         "children": [
           {
-            "id": "1fae12458513bcac",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "084ab460175a7b6a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
-            "id": "126a2539efbff494",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "815d3627b7b7b926",
+            "id": "d92d56fad8551c70",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "数学真题/24真题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "24真题 的大纲"
+            }
+          },
+          {
+            "id": "7495dc04f65e50f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/总结——模拟卷/25-欧几里得三套卷（1）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "25-欧几里得三套卷（1） 的出链列表"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c76764474835edc",
+        "type": "tabs",
+        "dimension": 47.60191846522782,
+        "children": [
+          {
+            "id": "fd9a2dd7610035c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 314
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "obsidian-day-and-night:Toggle Theme": false,
+      "templater-obsidian:Templater": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "146afeb522b656ac",
-  "lastOpenFiles": []
+  "active": "a348938158e3fa56",
+  "lastOpenFiles": [
+    "数学模拟卷/24模拟/x.md",
+    "数学真题/24真题.md",
+    "README.md",
+    "数学模拟卷/24模拟",
+    "template_files/tpmark.md",
+    "template_files/tp.md",
+    "template_files/TODO模板.md",
+    "template_files/AAA数学模拟卷模板.md",
+    "template_files/缩进中的蓝色标题.md",
+    "template_files/缩进中的红色标题.md",
+    "template_files/时间戳_带有颜色的.md",
+    "template_files/时间戳.md",
+    "template_files/日记模板.md",
+    "draft/TODO.md",
+    "draft/things/4cf0729a1787bc952060bc8b9ae9c856_MD5.jpeg",
+    "draft/things/Pasted image 20250302140415.png",
+    "draft/things",
+    "draft/things/Pasted image 20241229114426-1.png",
+    "Untitled.md",
+    "数学练习册全刷/2024张宇1000题",
+    "数学练习册全刷",
+    "英语真题精刷",
+    "1111.md",
+    "things",
+    "找工作/C++/things",
+    "找工作/C++/现代C++.md",
+    "找工作/C++",
+    "找工作",
+    "ZZZZZZZZZZ/未命名.md",
+    "ZZZZZZZZZZ/fasdfads f.md",
+    "ZZZZZZZZZZ/things/Pasted image 20241229115431.png",
+    "ZZZZZZZZZZ/things/Pasted image 20241229115337.png",
+    "ZZZZZZZZZZ/things",
+    "draft/things/Pasted image 20241229114502.png",
+    "draft/things/Pasted image 20241229114500-1.png",
+    "draft/things/Pasted image 20241229114418-1.png",
+    "draft/things/Pasted image 20241229113618.png",
+    "draft/828A4C68EA9C8BA20FD41D2BA10C1124.jpg",
+    "draft/none.md",
+    "draft/my-ublock-backup_2024-09-25_20.45.44.md",
+    "draft/英语政治.md",
+    "draft/数学.md",
+    "draft/数据结构.md",
+    "draft/计算机组成原理.md",
+    "draft/计算机网络.md",
+    "draft/操作系统.md",
+    "未命名.canvas"
+  ]
 }
