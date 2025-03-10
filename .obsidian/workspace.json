@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "96a41d6432f70722",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd517996cc7b9bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c36ef84d9af1027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学——笔记/高等数学/03 taylor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "03 taylor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2593b17c1fe405ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca4f930dcc7eb208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e333f6d0209a5ea6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ae7f128385d4a6e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "087beedc3cc589e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "6acaf30e623b74f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c621d2e9d874362",
+        "type": "tabs",
+        "dimension": 60.9375,
+        "children": [
+          {
+            "id": "d92d56fad8551c70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学——笔记/高等数学/03 taylor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "03 taylor 的大纲"
+            }
+          },
+          {
+            "id": "7495dc04f65e50f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构（第1章-第9章）/03 列表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "03 列表 的出链列表"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c76764474835edc",
+        "type": "tabs",
+        "dimension": 39.0625,
+        "children": [
+          {
+            "id": "fd9a2dd7610035c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-and-night:Toggle Theme": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9c36ef84d9af1027",
+  "lastOpenFiles": [
+    "数学——笔记/高等数学/00 运算总结.md",
+    "数学——笔记/高等数学/03 taylor.md",
+    "数学——笔记/高等数学/04 一元微分.md",
+    "数学——笔记/高等数学/02 函数图像.md",
+    "数学——笔记/概率论/05 数理统计分布.md",
+    "数学——笔记/概率论/01 一维随机变量.md",
+    "数学——笔记/概率论/00 事件和概率.md",
+    "数学——笔记/概率论/02 二维随机变量.md",
+    "数学——笔记/概率论/03 数字特征.md",
+    "数学——笔记/高等数学/15 中值定理.md",
+    "数学——笔记/高等数学/12 数列极限.md",
+    "数学——笔记/高等数学/10 线面积分.md",
+    "数学——笔记/高等数学/07 二重积分.md",
+    "数学——笔记/高等数学/01 初等数学.md",
+    "专业课——软件工程原理（第1章-第9章）/ch5 面向对象的分析建模/1 面向对象分析.md",
+    "专业课——软件工程原理（第1章-第9章）/ch4 软件建模/1 软件建模，结构化分析.md",
+    "专业课——软件工程原理（第1章-第9章）/ch9 软件演化和软件维护/1 软件演化和维护.md",
+    "专业课——软件工程原理（第1章-第9章）/ch3 需求工程/1 需求工程.md",
+    "专业课——软件工程原理（第1章-第9章）/ch2 软件过程/2习题.md",
+    "专业课——软件工程原理（第1章-第9章）/ch2 软件过程/1软件过程.md",
+    "专业课——软件工程原理（第1章-第9章）/ch1 软工概述/1软件工程引论.md",
+    "专业课——软件工程原理（第1章-第9章）/ch9 软件演化和软件维护",
+    "专业课——软件工程原理（第1章-第9章）/ch8 软件测试",
+    "专业课——软件工程原理（第1章-第9章）/ch7 面向对象的设计建模",
+    "专业课——软件工程原理（第1章-第9章）/ch6 设计工程",
+    "825——SJTU 本科作业/软件工程/3 需求工程.md",
+    "专业课——软件工程原理（第1章-第9章）/note.md",
+    "专业课——CSAPP（第2，3，6，8-10章）/note.md",
+    "825——SJTU 本科作业/软件工程/4 面向对象分析.md",
+    "专业课——软件工程原理（第1章-第9章）/ch1 软工概述/2习题.md",
+    "825——SJTU 本科作业/软件工程/本科课件.pdf",
+    "825——SJTU 本科作业/计算机系统基础/本科作业.pdf",
+    "825——SJTU 本科作业/计算机系统基础/本科课程资料/exams/2015/ics1.fe.A.paper.pdf",
+    "825——SJTU 本科作业/计算机系统基础/本科课程资料/exams/2015/ics1.fe.A.sol.pdf",
+    "825——SJTU 本科作业/计算机系统基础/本科课程资料/tutorials/practice/ICS1-week15.Sol.pdf",
+    "825——SJTU 本科作业/计算机系统基础/本科课程资料/misc/DSY212_Seats.pdf",
+    "draft/things/4cf0729a1787bc952060bc8b9ae9c856_MD5.jpeg",
+    "draft/things/Pasted image 20250302140415.png",
+    "draft/things/Pasted image 20241229114426-1.png",
+    "ZZZZZZZZZZ/things/Pasted image 20241229115431.png",
+    "ZZZZZZZZZZ/things/Pasted image 20241229115337.png",
+    "draft/things/Pasted image 20241229114502.png",
+    "draft/things/Pasted image 20241229114500-1.png",
+    "draft/things/Pasted image 20241229114418-1.png",
+    "draft/things/Pasted image 20241229113618.png",
+    "draft/828A4C68EA9C8BA20FD41D2BA10C1124.jpg",
+    "未命名.canvas"
+  ]
+}
