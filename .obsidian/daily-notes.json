@@ -1,0 +1,6 @@
+{
+  "folder": "day",
+  "autorun": false,
+  "template": "draft/day_note_template",
+  "format": "YYYY_MM_DD"
+}
